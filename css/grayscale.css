@@ -4,15 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 #about{
-     background-color: #42DCA3;
-     color: #1C5C45;
+     background-color: #270C6B;
+
 }
 #download{
-      background-color: #87E2C0;
-      color: #375C4F;
+      background-color: #230086;
+
 }
-#pendergast{
-       background-color: #1C5C45;
+#Resume{
+       background-color: #1A0059;
 }
 
 body {
@@ -287,7 +287,7 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    
+
     background: <--url(../img/downloads-bg.jpg) no-repeat center center scroll;-->
     background-color: #000;
     -webkit-background-size: cover;
@@ -328,17 +328,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #3D78FA;
+    color: #3D78fA;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #ffffff;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #3F6FDE;
 }
 
 ul.banner-social-buttons {
